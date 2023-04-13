@@ -1,0 +1,7 @@
+C:\Users\chris\asptest\unitymax\bin\Debug\net7.0\publish\unitymax.exe
+C:\Users\chris\asptest\unitymax\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\chris\asptest\unitymax\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\chris\asptest\unitymax\bin\Debug\net7.0\publish\unitymax.dll
+C:\Users\chris\asptest\unitymax\bin\Debug\net7.0\publish\unitymax.deps.json
+C:\Users\chris\asptest\unitymax\bin\Debug\net7.0\publish\unitymax.runtimeconfig.json
+C:\Users\chris\asptest\unitymax\bin\Debug\net7.0\publish\unitymax.pdb
