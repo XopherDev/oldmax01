@@ -73,3 +73,12 @@ _[Ss]cripts
 *.nupkg
 *.ncrunchsolution
 *.dot[Cc]over
+bin/Debug/net6.0/unitymax.dll
+bin/Debug/net6.0/unitymax.pdb
+bin/Debug/net6.0/publish/unitymax.dll
+bin/Debug/net6.0/publish/unitymax.pdb
+bin/Debug/net6.0/publish/web.config
+obj/Debug/net6.0/unitymax.assets.cache
+obj/Debug/net6.0/unitymax.dll
+obj/Debug/net6.0/unitymax.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net6.0/unitymax.pdb
